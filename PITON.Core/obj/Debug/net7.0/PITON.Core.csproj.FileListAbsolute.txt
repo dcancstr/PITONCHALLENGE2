@@ -1,0 +1,14 @@
+/Users/dcancstr/Projects/PITON/PITON.Core/bin/Debug/net7.0/PITON.Core.deps.json
+/Users/dcancstr/Projects/PITON/PITON.Core/bin/Debug/net7.0/PITON.Core.runtimeconfig.json
+/Users/dcancstr/Projects/PITON/PITON.Core/bin/Debug/net7.0/PITON.Core.dll
+/Users/dcancstr/Projects/PITON/PITON.Core/bin/Debug/net7.0/PITON.Core.pdb
+/Users/dcancstr/Projects/PITON/PITON.Core/obj/Debug/net7.0/PITON.Core.csproj.AssemblyReference.cache
+/Users/dcancstr/Projects/PITON/PITON.Core/obj/Debug/net7.0/PITON.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dcancstr/Projects/PITON/PITON.Core/obj/Debug/net7.0/PITON.Core.AssemblyInfoInputs.cache
+/Users/dcancstr/Projects/PITON/PITON.Core/obj/Debug/net7.0/PITON.Core.AssemblyInfo.cs
+/Users/dcancstr/Projects/PITON/PITON.Core/obj/Debug/net7.0/PITON.Core.csproj.CoreCompileInputs.cache
+/Users/dcancstr/Projects/PITON/PITON.Core/obj/Debug/net7.0/PITON.Core.dll
+/Users/dcancstr/Projects/PITON/PITON.Core/obj/Debug/net7.0/refint/PITON.Core.dll
+/Users/dcancstr/Projects/PITON/PITON.Core/obj/Debug/net7.0/PITON.Core.pdb
+/Users/dcancstr/Projects/PITON/PITON.Core/obj/Debug/net7.0/PITON.Core.genruntimeconfig.cache
+/Users/dcancstr/Projects/PITON/PITON.Core/obj/Debug/net7.0/ref/PITON.Core.dll

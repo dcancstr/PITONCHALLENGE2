@@ -1,0 +1,15 @@
+/Users/dcancstr/Projects/PITON/PITON.Entity/bin/Debug/net7.0/PITON.Entity.deps.json
+/Users/dcancstr/Projects/PITON/PITON.Entity/bin/Debug/net7.0/PITON.Entity.dll
+/Users/dcancstr/Projects/PITON/PITON.Entity/bin/Debug/net7.0/PITON.Entity.pdb
+/Users/dcancstr/Projects/PITON/PITON.Entity/bin/Debug/net7.0/PITON.Core.dll
+/Users/dcancstr/Projects/PITON/PITON.Entity/bin/Debug/net7.0/PITON.Core.pdb
+/Users/dcancstr/Projects/PITON/PITON.Entity/obj/Debug/net7.0/PITON.Entity.csproj.AssemblyReference.cache
+/Users/dcancstr/Projects/PITON/PITON.Entity/obj/Debug/net7.0/PITON.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dcancstr/Projects/PITON/PITON.Entity/obj/Debug/net7.0/PITON.Entity.AssemblyInfoInputs.cache
+/Users/dcancstr/Projects/PITON/PITON.Entity/obj/Debug/net7.0/PITON.Entity.AssemblyInfo.cs
+/Users/dcancstr/Projects/PITON/PITON.Entity/obj/Debug/net7.0/PITON.Entity.csproj.CoreCompileInputs.cache
+/Users/dcancstr/Projects/PITON/PITON.Entity/obj/Debug/net7.0/PITON.Entity.csproj.CopyComplete
+/Users/dcancstr/Projects/PITON/PITON.Entity/obj/Debug/net7.0/PITON.Entity.dll
+/Users/dcancstr/Projects/PITON/PITON.Entity/obj/Debug/net7.0/refint/PITON.Entity.dll
+/Users/dcancstr/Projects/PITON/PITON.Entity/obj/Debug/net7.0/PITON.Entity.pdb
+/Users/dcancstr/Projects/PITON/PITON.Entity/obj/Debug/net7.0/ref/PITON.Entity.dll

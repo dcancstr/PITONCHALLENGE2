@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{98C0E5F4-0C8D-46D0-B6D2-2342A1BB5EBB}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PITON.UI/appsettings.json">
+    <Files>
+      <File FileName="PITON.UI/Controllers/ETransactionController.cs" Line="1" Column="1" />
+      <File FileName="PITON.DataAccess/Context.cs" />
+      <File FileName="PITON.UI/Program.cs" Line="1" Column="1" />
+      <File FileName="PITON.UI/appsettings.json" Line="13" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PITON" expanded="True">
+            <Node name="PITON.UI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PITON.UI PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
